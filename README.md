@@ -1,89 +1,68 @@
-## 🚀 30diasDeCSS 🚀
+# 使用DeepL翻译
+源自(https://github.com/MilenaCarecho/30diasDeCSS)
+## 🚀 30天的CSS 🚀
  
- Fala Devs, beleza? 🖖
+ 嘿，开发人员，你好吗？ 🖖
 
- 30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3 
+ 30天的CSS3，是一个挑战，旨在帮助你通过每天使用HTML5和CSS3做小型项目来提高你的编码技能。
 
- ## Objetivo
+ ## 目标
 
-30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 20 de Julho de 2020, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos 
+30天CSS3》是我从2020年7月20日开始参加的一项挑战（你也可以参加），目的是通过完成项目来提高我的HTML5和CSS3技能。
 
-***Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei honrada com sua participação 😉***
-
-## Regras gerais
-
-* Realizar um projeto por dia
-* Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
-* O projeto deve ser concluído até 23:59
-
-## Regras pra mim 
-Eu criei algumas regras para mim que não quero impor a ninguém, mas fique à vontade para fazer o mesmo, se quiser!
-
-* Se eu não concluir o projeto do dia, as 5 primeiras pessoas a apontar no Twitter [@MilenaCarecho](https://twitter.com/MilenaCarecho) receberão R$5 via PicPay (total de R$25). Adicionando um pouco de motivação para mim! 😉 (Antes de solicitar qualquer coisa, verifique primeiro a hora no meu fuso horário - para mim, o fuso horário é Brasília - DF (GMT-3)) 💸
-* Vou criar um artigo tutorial no [medium](https://medium.com/@MilenaCarecho) para todos os projetos 
+***如果你刚来就想开始挑战，请随意，挑战没有固定的开始日期，每个人都做自己的30天，我将很荣幸你的参与😉***。
 
 
-Gostou da ideia? 
-[Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
-
-#### Youtube Referencias dos desafios
-[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
-[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
-[DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
-
-
-
-
-* [Dia 01 - Ícone de mídia social em camadas](#id01)
-* [Dia 02 - Loader animado](#id02)
-* [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
-* [Dia 04 - Botão com efeito](#id04)
-* [Dia 05 - Efeito pulsar](#id05)
-* [Dia 06 - Efeito lightning text](#id06)
-* [Dia 07 - Preloader animado](#id07)  
-* [Dia 08 - Coração batendo](#id08)
-* [Dia 09 - Pendulo de Newton](#id09)
-* [Dia 10 - Animação texto alternando](#id10)
-* [Dia 11 - Botão com efeito hover](#id11)
-* [Dia 12 - Efeito de preenchimento ao passar o mouse](#id12)
-* [Dia 13 - Loading com efeito](#id13)
-* [Dia 14 - Fundo de texto animado](#id14)
-* [Dia 15 - Texto flutuante](#id15)
-* [Dia 16 - Botão com efeito](#id16)
-* [Dia 17 - Loader animado](#id17)
-* [Dia 18 - Texto esfumaçado](#id18)
-* [Dia 19 - Efeitos de animação de fundo de partículas](#id19)
-* [Dia 20 - Botão com efeito](#id20)
-* [Dia 21 - Esferas quicando](#id21)
-* [Dia 22 - Icones com efeito](#id22)
-* [Dia 23 - Botão com efeito hover](#id23)
-* [Dia 24 - Preloader animado](#id24)
-* [Dia 25 - Checkbox animado](#id25)
-* [Dia 26 - Loading com efeito](#id26)
-* [Dia 27 - Efeito pulsar](#id27)
-* [Dia 28 - Cor do background mudando](#id28)
-* [Dia 29 - Menu responsivo com Media Queries](#id29)
-* [Dia 30 - Fogos de artificio](#id30)
+* [第01天 - 分层社交媒体图标](#id01)
+* [第02天 - 动画装载机](#id02)
+* [第03天 - 进入另一个分部时改变文字颜色](#id03)
+* [第04天 - 有效果的按钮](#id04)
+* [第05天 - 脉冲效应](#id05)
+* [第06天 - 闪电般的文字效果](#id06)
+* [第07天 - 有动画的预加载器](#id07)  
+* [第08天 - 心脏的跳动](#id08)
+* [第09天 - 牛顿钟摆](#id09)
+* [第10天 - 交替出现的文本动画](#id10)
+* [第11天 - 有悬停效果的按钮](#id11)
+* [第12天 - 鼠标悬停时的填充效果](#id12)
+* [第13天 - 有效果的加载](#id13)
+* [第14天 - 动画文本背景](#id14)
+* [第15天 - 浮动文本](#id15)
+* [第16天 - 有效果的按钮](#id16)
+* [第17天 - 动画加载器](#id17)
+* [第18天 - 烟雾状的文字](#id18)
+* [第19天 - 粒子背景动画效果](#id19)
+* [第20天 - 有效果的按钮](#id20)
+* [第21天 - 弹跳球](#id21)
+* [第22天 - 有效果的图标](#id22)
+* [第23天 - 具有悬停效果的按钮](#id23)
+* [第24天 - 动画预加载器](#id24)
+* [第25天 - 动画复选框](#id25)
+* [第26天 - 有效果的加载](#id26)
+* [第27天 - 脉冲效应](#id27)
+* [第28天 - 背景颜色变化](#id28)
+* [第29天 - 使用媒体查询的响应式菜单](#id29)
+* [第30天 - 烟花](#id30)
 
 
-##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
+##  第01天 - 分层社交媒体图标 <a name="id01"></a>
 ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
 
-[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2001)
+[我的代码](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2001)
 
-[Tutorial Medium]() *Ainda não disponivel*
+[中级教程]() *尚无资料*
 
-[Post LinkedIn](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau) 
-
-
-##### O que eu aprendi
+[LinkedIn的帖子](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau) 
 
 
-* *Criar as camadas utilizando a tag `<span>`*
-* *tranformação 2D ou 3D de um elemento [aqui](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
-* *[Transições CSS](https://www.w3schools.com/css/css3_transitions.asp)*
-* *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
+##### 我学到了什么
+
+
+* *使用`<span>`标签创建图层*
+* *一个元素的二维或三维转换 [链接](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[CSS transitions](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[CSS image transparency](https://www.w3schools.com/css/css_image_transparency.asp)*
 * *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 
